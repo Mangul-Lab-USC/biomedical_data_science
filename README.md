@@ -4,4 +4,4 @@ This repository will store some simple datasets that will help you follow along 
 
 # Additional resourses
 
-# Frequenly asked questions
+# Frequently asked questions
