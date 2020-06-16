@@ -2,6 +2,6 @@
 
 This repository will store some simple datasets that will help you follow along with the biomedical data science workshop modules.
 
-# Additional resourses
+# Additional resources
 
 # Frequently asked questions
