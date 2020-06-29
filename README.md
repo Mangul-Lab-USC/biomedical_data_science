@@ -32,6 +32,11 @@ This repository will store some simple datasets that will help you follow along 
 - **A** A google colab is a jupyter notebook that is hosted and run on a google cloud.
 
 
+- **Q** Does my web browser matter when running google colab?
+
+- **A** Yes, so far both Chrome and Firefix have worked, while Edge and Safari have generated errors beginning a Google Colab
+
+
 ## Module 2
 	
 - **Q** What is the difference between a list and a dictionary?
