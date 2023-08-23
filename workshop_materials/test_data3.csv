@@ -1,4 +1,5 @@
-age,sample_name,column1
-25,sample1,yes
-33,sample4,no
-55,sample3,yes
+Bases,Sample_Name,BioSample
+263.91 k,nCOV6EUHM,SAMN15751356
+4.10 G,280,SAMN15751355
+3.76 G,nCOV0029EUHM,SAMN15751345
+
