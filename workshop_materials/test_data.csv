@@ -1,5 +1,5 @@
-column0,column1,column2,column3,column4,sample_name
-control,yes,0.25,0.1,0,sample1
-case,yes,0.9,0.25,0.75,sample2
-control,yes,0.43,0.23,0.02,sample3
-case,no,0.84,0.34,0.9,sample4
+disease_status,disease_severity,days_since_symptom_onset,age,sex,source_name,Sample_Name
+COVID-19,Severe,15,75,female,single cell mRNA,nCOV3EUHM
+COVID-19,Moderate,9,47,female,single cell mRNA,nCOV0029EUHM
+COVID-19,Severe,16,59,male,antibody tag,nCOV6EUHM
+Healthy,,,84,single cell mRNA,280
