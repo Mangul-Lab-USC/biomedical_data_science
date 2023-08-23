@@ -2,4 +2,4 @@ disease_status,disease_severity,days_since_symptom_onset,age,sex,source_name,Sam
 COVID-19,Severe,15,75,female,single cell mRNA,nCOV3EUHM
 COVID-19,Moderate,9,47,female,single cell mRNA,nCOV0029EUHM
 COVID-19,Severe,16,59,male,antibody tag,nCOV6EUHM
-Healthy,,,84,single cell mRNA,280
+Healthy,,,84,female,single cell mRNA,280
