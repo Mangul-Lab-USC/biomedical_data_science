@@ -1,5 +1,5 @@
-Bases,Sample_Name,days_since_symptom_onset,age
-263.91 k,nCOV6EUHM,9,123
-4.10 G,280,16,11
-3.76 G,nCOV0029EUHM,0,11
+Bases,Sample_Name,days_since_symptom_onset
+263.91 k,nCOV6EUHM,9
+4.10 G,280,16
+3.76 G,nCOV0029EUHM,0
 
